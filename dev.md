@@ -5,3 +5,4 @@ git status
 $ echo # hey > dev.md
 $ echo '# hey
 some update
+миру- мир, нам- пломбир!
