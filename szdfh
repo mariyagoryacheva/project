@@ -1,0 +1,41 @@
+[33mcommit dfacdc6cf53a76ab9effd1ba0fabe6b120759fb3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: m.goryacheva <mashamostovaya555@list.ru>
+Date:   Mon Jun 12 10:30:32 2023 +0300
+
+    update feature version
+
+[33mcommit 290e253bf161f859669ff3a4e53fee12a15bfe73[m[33m ([m[1;33mtag: 1.0.1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: m.goryacheva <mashamostovaya555@list.ru>
+Date:   Mon Jun 12 10:25:43 2023 +0300
+
+    new feature version
+
+[33mcommit ae9fe3dbf7cf21e32a5c3d2c90ee1632b2d852b2[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: m.goryacheva <mashamostovaya555@list.ru>
+Date:   Mon Jun 12 10:20:34 2023 +0300
+
+    new file main.go
+
+[33mcommit 0b7474ca2b4c9d040e7e25be7b1245e1be51075b[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: m.goryacheva <mashamostovaya555@list.ru>
+Date:   Sat Jun 10 18:07:34 2023 +0300
+
+    new code feature
+
+[33mcommit 46b551c3ab1cfa98d7c6bd83804788fd2ce9bebc[m[33m ([m[1;31morigin/first-feature[m[33m, [m[1;32mfirst-feature[m[33m)[m
+Author: mariyagoryacheva <109992116+mariyagoryacheva@users.noreply.github.com>
+Date:   Fri Jun 9 17:51:39 2023 +0300
+
+    Update dev.md
+
+[33mcommit 8f5d0e51911e951d58e3e00a6584968a1a955b44[m
+Author: m.goryacheva <mashamostovaya555@list.ru>
+Date:   Fri Jun 9 17:46:13 2023 +0300
+
+    create dev.md
+
+[33mcommit c50c12859920cb162d765656c1553c866325664f[m
+Author: mariyagoryacheva <109992116+mariyagoryacheva@users.noreply.github.com>
+Date:   Fri Jun 9 17:34:29 2023 +0300
+
+    Initial commit
